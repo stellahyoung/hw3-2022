@@ -2,9 +2,9 @@ body{
     font-family: 'Arial', 'Verdana';
     background-color:#000000;
     color:#ffffff;
-    margin-top: 20px;
     margin-left: 20px;
     margin-right: 20px;
+    margin-top: 20px;
 }
 
 h1{
@@ -55,16 +55,16 @@ line-height: 2;
     border-width: 0px 0px 2px 5px;
 }
 
+.blue h2{
+    color: #C4C4C4
+    }
+
 .blue{
     background-color: #0000FF;
     color: #C4C4C4;
     text-align: left;
     margin-right: 50px;
     border-width: 2px 5px 0px 0px;   
-}
-    
-.blue h2{
-color: #C4C4C4
 }
 
 .yellow{
